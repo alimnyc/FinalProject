@@ -1,0 +1,57 @@
+
+nav{
+	margin-top: 2em;
+}
+
+
+ul{
+	float: right;
+	display: inline-block;
+	border: 1px solid black;
+}
+
+ul li{
+	display: inline-block;
+	text-decoration: none;
+	border: 1px solid black;
+}
+
+
+h1{
+	text-align: center;
+	border: 1px solid black;
+}
+
+
+
+h2{
+	font-size: 30px;
+	font-style: bold;
+}
+
+
+.subform{
+	margin:30px;
+	background: gray;
+	color:white;
+	width:40%;
+	border-radius: 20px;
+	float: left;
+}
+
+.form{
+	margin:20px;
+}
+
+.form label{
+	background: white;
+	font-size: 20px;
+	color:black;
+	border-radius: 20%;
+	border: 2px solid black;
+}
+
+.sum-img img{
+	border:2px solid black;
+	margin-right: 5px;
+}
